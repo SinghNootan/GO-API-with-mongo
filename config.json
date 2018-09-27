@@ -1,0 +1,10 @@
+{
+	"env": "dev",
+	"hosts": "localhost",
+	"databaseName": "mydb",
+	"username": "abcd",
+	"password": "xyz",
+	"collections": "mydetails",
+	"ip": "localhost",
+	"port": "8080"
+}
